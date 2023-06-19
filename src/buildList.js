@@ -25,7 +25,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+    logoURI: "https://ipfs.io/ipfs/QmeEBENZwGEKAq4Wx96iuTGQQGjBY2tJcJzNnTpqpEuHVe",
     keywords: ["uniswap", "default"],
     tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...polygon, ...mumbai, ...optimism, ...celo, ...arbitrum, ...bnb, ...sepolia]
       // sort them by symbol for easy readability
